@@ -1,5 +1,4 @@
 ---
 env: DEV
-company: CORP
-selenium_test_url: "http://apptest-apptest.k-apps.osh.massopen.cloud/"
+selenium_test_url: "http://localhost:3000"
 ...
